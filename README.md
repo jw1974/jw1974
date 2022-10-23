@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jw1974
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá meu nome é Wladimir 
+- 👀 Interesse em linux / proxmox / elasticsource / kibana / outros
+- 🌱 Trabalho com Hardware / suporte técnico / redes e infraestrutura  / ambiente cliente servidores Microsoft windows
+- 💞️ 
+- 📫 
 
 <!---
 jw1974/jw1974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
